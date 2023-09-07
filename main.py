@@ -131,6 +131,7 @@ def action(mach_water, mach_milk, mach_beans, mach_cups, mach_money):
 
 def main():
   # Start
+  # commit test 
   action(mach_water, mach_milk, mach_beans, mach_cups, mach_money)
 
 if __name__ == "__main__":
